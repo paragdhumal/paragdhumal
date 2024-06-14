@@ -1,4 +1,4 @@
-# Hi there, I'm [Parag Dhumal] 👋
+# Hi there, I'm Parag Dhumal 👋
 
 ![Profile views](https://gpvc.arturio.dev/yourusername)
 
