@@ -19,7 +19,7 @@ I'm a DevOps Engineer with a passion for creating and learning. I enjoy working 
 
 ## Contact
 
-- [LinkedIn](www.linkedin.com/in/parag-dhumal-61aa82149)
+- [LinkedIn](https://www.linkedin.com/in/parag-dhumal-61aa82149)
 - [Email](mailto:paragdhumalpd@gmail.com)
 
 
