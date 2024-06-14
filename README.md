@@ -1,38 +1,26 @@
 # Hi there, I'm Parag Dhumal 👋
 
-![Profile views](https://github.com/paragdhumal)
 
 ## About Me
 
-I'm a software developer with a passion for creating and learning. I enjoy working on both frontend and backend projects, and I'm always looking for new challenges and opportunities to grow.
+I'm a DevOps Engineer with a passion for creating and learning. I enjoy working on DevOps and Cloud related projects, and I'm always looking for new challenges and opportunities to grow.
 
 ## Skills
 
-- **Languages**: JavaScript, Python, Java, C++
-- **Frameworks**: React, Node.js, Django, Spring Boot
-- **Tools**: Git, Docker, Kubernetes, Jenkins
+- **Languages**: Python, Shell Scripting
+- **Tools**: Git, Docker, Kubernetes, Jenkins, Maven, Terraform, Ansible
 - **Databases**: MySQL, PostgreSQL, MongoDB
+- **Cloud**: Amazon Web Services, Microsoft Azure
 
-## Projects
+## Projects Repo
 
-- [Project One](https://github.com/yourusername/project-one) - Description of project one.
-- [Project Two](https://github.com/yourusername/project-two) - Description of project two.
+- MyProjects
+- Linux-AWS-DevOps
 
 ## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile/)
-- [Twitter](https://twitter.com/yourusername)
-- [Email](mailto:youremail@example.com)
+- [LinkedIn](www.linkedin.com/in/parag-dhumal-61aa82149)
+- [Email](mailto:paragdhumalpd@gmail.com)
 
-## Achievements
 
-- Contributed to open-source projects.
-- Published articles on software development.
-- Speaker at various tech conferences.
-
-## Fun Fact
-
-I love hiking and exploring new places in my free time!
-
-![Your Image](https://avatars.githubusercontent.com/yourusername)
 
