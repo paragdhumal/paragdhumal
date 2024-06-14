@@ -1,6 +1,6 @@
 # Hi there, I'm Parag Dhumal 👋
 
-![Profile views](https://gpvc.arturio.dev/yourusername)
+![Profile views](https://github.com/paragdhumal)
 
 ## About Me
 
